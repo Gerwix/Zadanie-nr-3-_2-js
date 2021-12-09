@@ -1,0 +1,12 @@
+var v1 = 'A B R A K A D A B R A';
+var v2 = 'A B R A K A D A B R';
+var v3 = 'A B R A K A D A B';
+var v4 = 'A B R A K A D A';
+var v5 = 'A B R A K A D';
+var v6 = 'A B R A K A';
+var v7 = 'A B R A K';
+var v8 = 'A B R A';
+var v9 = 'A B R';
+var v10 = 'A B';
+var v11 = 'A';
+console.log(v1 +'\n' + ' ' + v2 + '\n' + '  ' + v3 + '\n' + '   ' + v4 + '\n' + '    ' + v5 + '\n' + '     ' + v6 + '\n' + '      ' + v7 + '\n' + '       ' + v8 + '\n' + '        ' + v9 + '\n' + '         ' + v10 + '\n' + '          ' + v11);
